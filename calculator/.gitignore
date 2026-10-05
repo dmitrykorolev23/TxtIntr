@@ -1,0 +1,5 @@
+calculator
+calculator-dbg
+calculator.dSYM/
+calculator-dbg.dSYM/
+*.o
